@@ -59,7 +59,7 @@ Aplikasi web Stash Goods ini masih berada pada tingkat dasar dengan kelebihannya
 dan deployment yang mudah. Adapun pada deployment saat ini hanya terbatas pada page admin saja dan tidak bisa
 melakukan registrasi ataupun login user. Fungsi manipulasi barang pun terbatas
 
-Perbandingan dengan web sejenis biasa terletak pada fungsionalitas manipulasi barang, dengan tingkat kedalaman yang lebih __advanced__.
+Perbandingan dengan web sejenis biasa terletak pada fungsionalitas manipulasi barang, dengan tingkat kedalaman yang lebih _advanced_.
 
 
 ## Referensi
