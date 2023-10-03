@@ -140,7 +140,7 @@ Linkwarden adalah web app bookmark collection yang kaya akan fitur, dengan tujua
 - 🌓 Light Mode dan **Dark Mode**
 - 🌐 Collection dapat di-set menjadi **public** dan dilihat oleh umum
 
-Untuk kekurangan yang ada dalam website ini, dari pengujian yang kami lakukan, terdapat beberapa kekurangan yang hanya terbatas pada deployment website kami dan tidak bisa dijadikan patokan untuk mengukur kualitas dan potensi riilnya (ditandai oleh *) yaitu:
+Untuk kekurangan yang ada dalam website ini, dari pengujian yang kami lakukan, terdapat beberapa kekurangan yang hanya terbatas pada deployment website kami dan tidak bisa dijadikan patokan untuk mengukur kualitas dan potensi riilnya (ditandai oleh <sup>*</sup>) yaitu:
 - Saat mengisi field username untuk menambah kolaborator, tidak bisa memverifikasi apakah user ada atau tidak<sup>*</sup>
 - Hasil Screenshot dan PDF untuk sebuah Link tidak ada<sup>*</sup>
 - Tidak ada backup untuk Link atau Collection yang sudah di-delete
