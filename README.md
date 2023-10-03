@@ -133,17 +133,23 @@ jika sudah, tekan tombol "Add" dan folder yang baru dibua muncul di Collection.
 
 ## Pembahasan
 
-Linkwarden adalah situs bookmark collection yang kaya akan fitur. Adapun kelebihan website ini adalah
+Linkwarden adalah web app bookmark collection yang kaya akan fitur, dengan tujuan untuk mengorganisasi link-link webpages dalam satu tempat, Linkwarden melaksanakannya dengan baik. Adapun kelebihan website ini adalah
 - 📱 UI dan navigasi web yang mudah dipahami
 - 📸 Auto Capture Screenshot dan PDF untuk link yang sudah ditambahkan
 - 👥 Fitur kolaborasi dengan user lain
 - 🌓 Light Mode dan **Dark Mode**
 - 🌐 Collection dapat di-set menjadi **public** dan dilihat oleh umum
 
-Untuk kekurangan yang ada dalam website ini, dari pengujian yang kami lakukan, kekurangan tersebut hanya terbatas pada deployment website kami dan tidak bisa dijadikan patokan untuk mengukur kualitas dan potensi riilnya yaitu:
-- Saat mengisi field username untuk menambah kolaborator, tidak bisa memverifikasi apakah user ada atau tidak
-- Hasil Screenshot dan PDF untuk sebuah Link tidak ada
+Untuk kekurangan yang ada dalam website ini, dari pengujian yang kami lakukan, terdapat beberapa kekurangan yang hanya terbatas pada deployment website kami dan tidak bisa dijadikan patokan untuk mengukur kualitas dan potensi riilnya (ditandai oleh *) yaitu:
+- Saat mengisi field username untuk menambah kolaborator, tidak bisa memverifikasi apakah user ada atau tidak _(*)_
+- Hasil Screenshot dan PDF untuk sebuah Link tidak ada _(*)_
+- Tidak ada backup untuk Link atau Collection yang sudah di-delete
+- 
 
+Jika dibandingkan dengan web app **Bookmark Collection**, seperti **Raindrop.io** terdapat beberapa perbedaan yaitu:
+- **Raindrop.io** memiliki berbagai jenis format untuk menampilkan bookmarknya seperti _headline format_, _cards format_, dan _mood board format_ tidak seperti Linkwarden yang hanya memiliki satu jenis view saja untuk bookmarknya
+- **Raindrop.io** dapat mengcapture _snippet_ dari sebuah website alih-alih mengambil semuanya
+- Integrasi API **Raindrop.io** yang lebih luas
 
 ## Referensi
 
