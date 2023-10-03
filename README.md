@@ -1,6 +1,4 @@
-<center>
-   ![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/5214805f-ec44-4216-be7f-55705b59ae2e)
-</center>
+![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/5214805f-ec44-4216-be7f-55705b59ae2e)
 
 # Linkwarden
 ## Sekilas Tentang
