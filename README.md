@@ -130,9 +130,12 @@ jika sudah, tekan tombol "Add" dan folder yang baru dibua muncul di Collection.
 - Saat tautan tersebut diberikan tag, nanti tampilannya akan seperti ini.
 ![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/73c55817-d310-449a-a8ec-10939c45e840)
 
-### Share $ Collaborate
-- Fitur ini dapat berbagi tautan dengan publik dan/atau memungkinkan beberapa pengguna bekerja bersama dengan lancar. Untuk melakukannya, pertama pilihlah folder yang ingin dibagikan ke public. Lalu di halaman tersebut, tedapat tombol "Manage Team".
+### Share & Collaborate
+- Fitur ini terdapat 2 cara untuk berbagi tautan dengan publik dan/atau memungkinkan beberapa pengguna bekerja bersama dengan lancar. Untuk melakukannya, pertama-tama pilih folder yang ingin Anda bagikan kepada publik. Kemudian, di halaman tersebut, ada tombol "Manage Team".
 ![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/3b9fb02b-7b51-4404-86bd-fba95e60db4a)
+- Klik tombol tersebut, lalu akan muncul tampilan di mana user dapat membuat tautannya menjadi publik dengan cara mencentang/klik kotak kecil di bagian "Make Public," yang kemudian akan menampilkan public link yang dapat dicopy lalu dibagikan ke public. Selain itu, ada opsi lain di mana pengguna dapat memasukkan alamat email teman atau orang yang ingin mereka bagikan pada bagian "Member Management". Terakhir pencet tombol "Save".
+![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/143df8e5-e96b-4726-aaff-fc3754130d05)
+
 
 
 ## Pembahasan
