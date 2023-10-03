@@ -19,7 +19,7 @@ Mamo adalah sebuah website yang dibuat untuk **mencatat arus pemasukan dan penge
 2. Lakukan instalasi docker menggunakan apt repository pada termninal
    berdasarkan panduan berikut : https://docs.docker.com/engine/install/ubuntu/
    
-4. Lakukn clone pada repository Linkwarden
+4. Lakukan clone pada repository Linkwarden
    ```
    git clone https://github.com/linkwarden/linkwarden.git
    ```
@@ -33,8 +33,12 @@ Mamo adalah sebuah website yang dibuat untuk **mencatat arus pemasukan dan penge
    ```
    touch .env
    ```
-   
-7. 
+   Kemudian lakukan konfigurasi pada file tersebut
+
+7. Jika sudah dikonfigurasi, jalankan dengan Docker Compose
+   ```
+   sudo docker-compose up -d
+   ``` 
 
 
 ## Konfigurasi (opsional)
