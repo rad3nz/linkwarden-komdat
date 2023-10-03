@@ -146,11 +146,17 @@ jika sudah, tekan tombol "Add" dan folder yang baru dibua muncul di Collection.
 
 ## Pembahasan
 
-Aplikasi web Stash Goods ini masih berada pada tingkat dasar dengan kelebihannya ialah development yang mudah
-dan deployment yang mudah. Adapun pada deployment saat ini hanya terbatas pada page admin saja dan tidak bisa
-melakukan registrasi ataupun login user. Fungsi manipulasi barang pun terbatas
+Linkwarden adalah situs bookmark collection yang kaya akan fitur. Adapun kelebihan website ini adalah
+- 📱 UI dan navigasi web yang mudah dipahami
+- 📸 Auto Capture Screenshot dan PDF untuk link yang sudah ditambahkan
+- 👥 Fitur kolaborasi dengan user lain
+- 🌓 Light Mode dan **Dark Mode**
+- 🌐 Collection dapat di-set menjadi **public** dan dilihat oleh umum
 
-Perbandingan dengan web sejenis biasa terletak pada fungsionalitas manipulasi barang, dengan tingkat kedalaman yang lebih _advanced_.
+Untuk kekurangan yang ada dalam website ini, menurut saya hanya terbatas pada deployment website kami
+dan tidak bisa dijadikan patokan untuk kualitas dan potensi riilnya yaitu:
+- Saat ingin menambah kolaborator tidak bisa memverifikasi apakah user ada atau tidak saat mengisi field username
+- Hasil Screenshot dan PDF untuk sebuah Link tidak ada
 
 
 ## Referensi
