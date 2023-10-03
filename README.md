@@ -12,9 +12,9 @@ Linkwarden adalah manajer bookmark kolaboratif sumber terbuka yang dapat di-host
 - Microsoft Azure Virtual Machine
 
 #### Proses Instalasi
-1. Login ke dalam server menggunakan ssh
+1. Login ke dalam server menggunakan ssh dan password
    ```
-   ssh rabbani@20.244.35.91
+   ssh komdatprojek@20.197.16.112
    ```
    
 2. Lakukan instalasi docker menggunakan apt repository pada termninal
