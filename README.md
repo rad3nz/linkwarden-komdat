@@ -60,6 +60,7 @@ Mamo adalah sebuah website yang dibuat untuk **mencatat arus pemasukan dan penge
    ```
    Ganti pada bagian `VERY_SENSITIVE_SECRET` dan `YOUR_POSTGRES_PASSWORD` dengan sebuah password dan keduanya harus berbeda.
    Pada bagian `NEXTAUTH_URL` link url dapat diganti dengan IP pada ssh dan juga port pada server.
+
    
    Contoh:
    ```
@@ -72,6 +73,7 @@ Mamo adalah sebuah website yang dibuat untuk **mencatat arus pemasukan dan penge
    ```
 
 5. Pada bagian ports ganti angka sebelah kiri dengan port pada server
+   
    Contoh:
    ```
    80:3000
