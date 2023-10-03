@@ -129,7 +129,21 @@ jika sudah, tekan tombol "Add" dan folder yang baru dibua muncul di Collection.
 - Klik tombol tersebut, lalu akan muncul tampilan di mana user dapat membuat tautannya menjadi publik dengan cara mencentang/klik kotak kecil di bagian "Make Public," yang kemudian akan menampilkan public link yang dapat dicopy lalu dibagikan ke public. Selain itu, ada opsi lain di mana pengguna dapat memasukkan alamat email teman atau orang yang ingin mereka bagikan pada bagian "Member Management". Terakhir pencet tombol "Save".
 ![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/143df8e5-e96b-4726-aaff-fc3754130d05)
 
+### User Profile
+- Untuk mengakses profilenya, user dapat melihat pada bagian header ujung kanan, lalu klik profilenya tersebut.
+- Pada saat diklik, akan muncul pilihan 3 menu yaitu
+   - Settings : mengubah atau mengatur profilenya seperti mengubah profile picture, privacy, dan lain-lain.
+   - Switch to Light (light mode) & Switch to Dark (Dark Mode) : mengubah visual dimana ada 2 pilihan untuk menyesuaikan tampilan antarmuka user sesuai dengan preferensi visual mereka. 
+   - Logout : Keluar dari akun usernya
+![image](https://github.com/rad3nz/linkwarden-komdat/assets/133312076/af0b2866-d040-49e8-8711-54851cc6bf71)
 
+- SETTINGS
+   - User dapat mengubah profile picture, Privacy Settings, dan Password
+   ![image](https://github.com/rad3nz/linkwarden-komdat/assets/133312076/05dbafd8-5771-4197-96cb-601c6fb4a89b) ![image](https://github.com/rad3nz/linkwarden-komdat/assets/133312076/84c9320f-1890-47f0-931d-db90ae67a534) ![image](https://github.com/rad3nz/linkwarden-komdat/assets/133312076/4798a8e9-1144-42e2-b484-4fbc7e3c8ba6)
+
+- Dark Mode & Light Mode
+![image](https://github.com/rad3nz/linkwarden-komdat/assets/133312076/d4a53147-d5af-455b-8e53-9bc152317b1b)
+![image](https://github.com/rad3nz/linkwarden-komdat/assets/133312076/0e27a966-4095-4f22-9e2f-196dcaf54ca0)
 
 ## Pembahasan
 
