@@ -105,8 +105,8 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 ![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/045ae652-2c71-498c-8d3f-f7a6f60b829a)
 
 ### Dashboard
-- Setelah login, user akan masuk ke halaman Dashboard. Pada bagian Dashboard, user dapat melihat total link, collections, tags, dan favorite link yang sudah diupload dari usernya itu sendiri.
-- Lalu juga ada beberapa menu yang dapat dikunjungi seperti dashboard, link, dan collection.
+- Setelah login, user akan masuk ke halaman Dashboard. Pada bagian Dashboard, user dapat melihat total link, collections, tags, dan favorite link yang sudah diupload dari usernya itu sendiri. Pada bagian headernya user juga dapa melihat  profile user, tombol "+ New Link", dan juga "search link" untuk mencari tautan yang ingin dibuka.
+- Lalu juga ada beberapa menu yang dapat dikunjungi link dan collection.
 ![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/59a28f9b-2372-4d9c-89e0-6c3329702d4b)
 
 ### Collection
@@ -115,13 +115,24 @@ Untuk membuat foldernya, user harus memencet gambar atau tombol "New Collection"
 ![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/39528a6a-c08d-4561-8fdc-4529d5e23962)
 
 - Setelah itu, user dapat menamakan dan mengisi deskripsi folder tersebut serta mewarnai foldernya untuk membedakan folder-folder lainnya.
-jika sudah, tekan tombol "Add" dan akan muncul di Collection
+jika sudah, tekan tombol "Add" dan folder yang baru dibua muncul di Collection.
 ![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/059bad45-f832-4b76-b17a-601892c9949e)
 ![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/962bcd7b-cdb3-4394-8f1b-d83126885ea4)
 
-- Tampilan aplikasi web
-- Fungsi-fungsi utama
-- Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
+### Link
+- Di dalam menu "Link," pengguna dapat menelusuri link-link yang telah diunggah ke dalam folder yang telah dibuat sebelumnya.
+  Untuk mengunggah tautan, langkah pertama adalah pengguna perlu mengklik tombol "+ New Link" yang terletak di bagian header paling kanan, dekat dengan profil user.
+![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/5115e3fc-41d8-4dc8-9f2c-86a00f965c06)
+- Kemudian user dapat memasukkan tautan ke dalam "Alamat (URL)" dan juga memilih folder tempat tautan akan disimpan. Lalu klik tombol "+ Add" untuk menambah link yang baru dibuat.
+![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/7dc787a5-01eb-414a-8e47-820cae56b4c3)
+- Jika user ingin lebih spesifik atau mendetail, user dapat menekan tombol "opsi lebih lanjut" di mana user dapat mengisi Nama tautan, Tag, dan Deskripsi.
+![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/42257160-c1e1-4b79-9a6e-962b5e24cc95)
+- Saat tautan tersebut diberikan tag, nanti tampilannya akan seperti ini.
+![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/73c55817-d310-449a-a8ec-10939c45e840)
+
+### Share $ Collaborate
+- Fitur ini dapat berbagi tautan dengan publik dan/atau memungkinkan beberapa pengguna bekerja bersama dengan lancar. Untuk melakukannya, pertama pilihlah folder yang ingin dibagikan ke public. Lalu di halaman tersebut, tedapat tombol "Manage Team".
+![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/3b9fb02b-7b51-4404-86bd-fba95e60db4a)
 
 
 ## Pembahasan
