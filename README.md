@@ -3,7 +3,7 @@
 # Linkwarden
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
-:---:|:---:|:---:|:---:|:---:|:---:|:---:
+:---:|:---:|:---:|:---:|:---:|:---:
 
 ## Sekilas Tentang
 Linkwarden adalah manajer bookmark kolaboratif sumber terbuka yang dapat di-host sendiri untuk mengumpulkan, mengorganisir, dan mengarsipkan halaman web. Tujuannya adalah untuk mengorganisir halaman web dan artikel yang berguna yang Anda temukan di seluruh web dalam satu tempat, dan karena halaman web yang berguna dapat hilang (lihat ketidakmungkinan Link Rot), Linkwarden juga menyimpan salinan dari setiap halaman web sebagai tangkapan layar dan PDF, memastikan aksesibilitas bahkan jika konten aslinya tidak lagi tersedia. Selain itu, Linkwarden dirancang dengan kolaborasi dalam pikiran, memungkinkan berbagi tautan dengan publik dan/atau memungkinkan beberapa pengguna bekerja sama dengan lancar.
