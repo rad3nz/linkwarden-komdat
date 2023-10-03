@@ -22,21 +22,22 @@ Mamo adalah sebuah website yang dibuat untuk **mencatat arus pemasukan dan penge
    https://docs.docker.com/engine/install/ubuntu/
    ```
    
-4. Lakukan clone pada repository Linkwarden:
+3. Lakukan clone pada repository Linkwarden:
    ```
    git clone https://github.com/linkwarden/linkwarden.git
    ```
    
-5. Masuk ke direktori yang sudah dibuat dengan command berikut:
+4. Masuk ke direktori yang sudah dibuat dengan command berikut:
    ```
    cd linkwarden
    ```
    
-6. Buat sebuah file dengan nama `.env`:
+5. Buat sebuah file dengan nama `.env`:
    ```
    touch .env
    ```
    Kemudian lakukan konfigurasi pada file tersebut
+   
 
 7. Jika sudah dikonfigurasi, jalankan dengan Docker Compose:
    ```
@@ -59,6 +60,7 @@ Mamo adalah sebuah website yang dibuat untuk **mencatat arus pemasukan dan penge
    ```
    Ganti pada bagian `VERY_SENSITIVE_SECRET` dan `YOUR_POSTGRES_PASSWORD` dengan sebuah password dan keduanya harus berbeda.
    Pada bagian `NEXTAUTH_URL` link url dapat diganti dengan IP pada ssh dan juga port pada server.
+   
    Contoh:
    ```
    http://20.244.35.91:80
