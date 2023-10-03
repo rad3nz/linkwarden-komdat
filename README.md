@@ -4,8 +4,18 @@ Mamo adalah sebuah website yang dibuat untuk **mencatat arus pemasukan dan penge
 
 ## Instalasi
 
-- Prasyarat, apa saja yang harus diinstal sebelumnya.
-- Langkah instalasi dalam CLI.
+#### Requirements :
+- OS (Linux, MacOS, Windows)
+- Docker
+- Git
+- Microsoft Azure Virtual Machine
+
+#### Proses Instalasi
+1. Login ke dalam server menggunakan ssh
+   ```
+   ssh rabbani@20.244.35.91
+   ```
+2. Lakukan instalasi docker 
 
 
 ## Konfigurasi (opsional)
