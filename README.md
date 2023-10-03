@@ -67,19 +67,29 @@ Setting tambahan untuk maintenance secara periodik, misalnya:
 Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 
+
 ## Cara Pemakaian
 ### Login Page
-- Masukkan Username, Untuk memulai sesi login, masukkan username ke dalam kolom yang tersedia.
-- Masukkan Password, Setelah memasukkan username, ketikkan password dengan hati-hati di kolom berikutnya.
-![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/8b3ee5e3-07f2-4c2d-ac8d-0b3eb56f5537)
+- Langkah pertama adalah pengguna harus masuk ke dalam sistem dengan akun yang sudah dimilikinya.
+![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/b44d6422-cef3-4a95-ba5b-5e58d1e9e59f)
+
+- Jika pengguna belum memiliki akun, maka langkah pertama yang perlu dilakukan adalah mendaftar (Sign Up) untuk membuat akun baru.
+![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/045ae652-2c71-498c-8d3f-f7a6f60b829a)
+
 ### Dashboard
-- Di dashboard atau halaman utama, akan menemukan nama situs web yang terletak di bagian header, yaitu "Stash Goods." Selain itu, di bagian header juga terdapat pesan yang memungkinkan kita untuk mengakses informasi-informasi penting dari situs web ini, serta profil kita. Selain itu, terdapat beberapa fitur-fitur lainnya yang memungkinkan untuk mengakses halaman-halaman lainnya, seperti:
-    - Data Barang: kita dapat mengakses informasi tentang barang-barang yang tersedia di situs ini.
-    - Entry Penjualan: Fitur ini untuk mencatat penjualan barang secara praktis.
-    - Ganti Foto: Dapat mengganti foto profil Anda sesuai keinginan.
-    - Ganti Password: Jika ingin mengubah kata sandi akun , kita dapat melakukannya melalui fitur ini.
-    - Logout: Terakhir, jika ingin keluar dari akun, kita dapat melakukan logout melalui tombol ini.
-![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/ba44bf95-287c-482a-9fb1-e61803b7bbfe)
+- Setelah login, user akan masuk ke halaman Dashboard. Pada bagian Dashboard, user dapat melihat total link, collections, tags, dan favorite link yang sudah diupload dari usernya itu sendiri.
+- Lalu juga ada beberapa menu yang dapat dikunjungi seperti dashboard, link, dan collection.
+![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/59a28f9b-2372-4d9c-89e0-6c3329702d4b)
+
+### Collection
+- Pada menu Collection, user dapat melihat data atau folder yang sudah dibuat untuk menyimpan link di folder tersebut.
+Untuk membuat foldernya, user harus memencet gambar atau tombol "New Collection" tersebut
+![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/39528a6a-c08d-4561-8fdc-4529d5e23962)
+
+- Setelah itu, user dapat menamakan dan mengisi deskripsi folder tersebut serta mewarnai foldernya untuk membedakan folder-folder lainnya.
+jika sudah, tekan tombol "Add" dan akan muncul di Collection
+![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/059bad45-f832-4b76-b17a-601892c9949e)
+![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/962bcd7b-cdb3-4394-8f1b-d83126885ea4)
 
 - Tampilan aplikasi web
 - Fungsi-fungsi utama
