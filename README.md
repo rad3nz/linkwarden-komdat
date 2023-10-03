@@ -141,13 +141,13 @@ Linkwarden adalah web app bookmark collection yang kaya akan fitur, dengan tujua
 - 🌐 Collection dapat di-set menjadi **public** dan dilihat oleh umum
 
 Untuk kekurangan yang ada dalam website ini, dari pengujian yang kami lakukan, terdapat beberapa kekurangan yang hanya terbatas pada deployment website kami dan tidak bisa dijadikan patokan untuk mengukur kualitas dan potensi riilnya (ditandai oleh *) yaitu:
-- Saat mengisi field username untuk menambah kolaborator, tidak bisa memverifikasi apakah user ada atau tidak _(*)_
-- Hasil Screenshot dan PDF untuk sebuah Link tidak ada _(*)_
+- Saat mengisi field username untuk menambah kolaborator, tidak bisa memverifikasi apakah user ada atau tidak'_*_
+- Hasil Screenshot dan PDF untuk sebuah Link tidak ada'_*_
 - Tidak ada backup untuk Link atau Collection yang sudah di-delete
 - 
 
 Jika dibandingkan dengan web app **Bookmark Collection**, seperti **[Raindrop.io](https://raindrop.io/)** terdapat beberapa perbedaan yaitu:
-- **Raindrop.io** memiliki berbagai jenis format untuk menampilkan bookmarknya seperti _headline format_, _cards format_, dan _mood board format_ tidak seperti Linkwarden yang hanya memiliki satu jenis view saja untuk bookmarknya
+- **Raindrop.io** memiliki berbagai jenis format untuk menampilkan bookmarknya seperti _headline format_, _cards format_, dan _mood board format_, tidak seperti Linkwarden yang hanya memiliki satu jenis view saja untuk bookmarknya
 - **Raindrop.io** dapat mengcapture _snippet_ dari sebuah website alih-alih mengambil semuanya
 - Integrasi API **Raindrop.io** yang lebih luas
 
