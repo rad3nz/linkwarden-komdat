@@ -59,6 +59,7 @@ Mamo adalah sebuah website yang dibuat untuk **mencatat arus pemasukan dan penge
    NEXTAUTH_URL=http://localhost:3000
    ```
    Ganti pada bagian `VERY_SENSITIVE_SECRET` dan `YOUR_POSTGRES_PASSWORD` dengan sebuah password dan keduanya harus berbeda.
+
    Pada bagian `NEXTAUTH_URL` link url dapat diganti dengan IP pada ssh dan juga port pada server.
 
    
