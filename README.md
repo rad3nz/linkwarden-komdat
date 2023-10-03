@@ -1,6 +1,7 @@
 <center>
    ![image](https://github.com/rad3nz/mamo-komdat/assets/133312076/5214805f-ec44-4216-be7f-55705b59ae2e)
 </center>
+
 # Linkwarden
 ## Sekilas Tentang
 Linkwarden adalah manajer bookmark kolaboratif sumber terbuka yang dapat di-host sendiri untuk mengumpulkan, mengorganisir, dan mengarsipkan halaman web. Tujuannya adalah untuk mengorganisir halaman web dan artikel yang berguna yang Anda temukan di seluruh web dalam satu tempat, dan karena halaman web yang berguna dapat hilang (lihat ketidakmungkinan Link Rot), Linkwarden juga menyimpan salinan dari setiap halaman web sebagai tangkapan layar dan PDF, memastikan aksesibilitas bahkan jika konten aslinya tidak lagi tersedia. Selain itu, Linkwarden dirancang dengan kolaborasi dalam pikiran, memungkinkan berbagi tautan dengan publik dan/atau memungkinkan beberapa pengguna bekerja sama dengan lancar.
