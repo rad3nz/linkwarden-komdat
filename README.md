@@ -17,9 +17,12 @@ Mamo adalah sebuah website yang dibuat untuk **mencatat arus pemasukan dan penge
    ```
    
 2. Lakukan instalasi docker menggunakan apt repository pada termninal
-   berdasarkan panduan berikut : https://docs.docker.com/engine/install/ubuntu/
+   berdasarkan panduan berikut:
+   ```
+   https://docs.docker.com/engine/install/ubuntu/
+   ```
    
-4. Lakukan clone pada repository Linkwarden
+4. Lakukan clone pada repository Linkwarden:
    ```
    git clone https://github.com/linkwarden/linkwarden.git
    ```
@@ -29,30 +32,49 @@ Mamo adalah sebuah website yang dibuat untuk **mencatat arus pemasukan dan penge
    cd linkwarden
    ```
    
-6. Buat sebuah file dengan nama `.env`
+6. Buat sebuah file dengan nama `.env`:
    ```
    touch .env
    ```
    Kemudian lakukan konfigurasi pada file tersebut
 
-7. Jika sudah dikonfigurasi, jalankan dengan Docker Compose
+7. Jika sudah dikonfigurasi, jalankan dengan Docker Compose:
    ```
-   sudo docker-compose up -d
+   sudo docker compose up -d
    ``` 
 
 
-## Konfigurasi (opsional)
+## Konfigurasi
 
-Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
-- batas upload file
-- batas memori
-- dll
+1. Buka file `.env` dengan command:
+   ```
+   nano .env
+   ```
 
-Plugin untuk fungsi tambahan
-- login dengan Google/Facebook
-- editor Markdown
-- dll
+2. Salin dan tempel kode di bawah:
+   ```
+   NEXTAUTH_SECRET=VERY_SENSITIVE_SECRET
+   POSTGRES_PASSWORD=YOUR_POSTGRES_PASSWORD
+   NEXTAUTH_URL=http://localhost:3000
+   ```
+   Ganti pada bagian `VERY_SENSITIVE_SECRET` dan `YOUR_POSTGRES_PASSWORD` dengan sebuah password dan keduanya harus berbeda.
+   Pada bagian `NEXTAUTH_URL` link url dapat diganti dengan IP pada ssh dan juga port pada server.
+   Contoh:
+   ```
+   http://20.244.35.91:80
+   ```
 
+4. Buka file `docker-compose.yml`:
+   ```
+   nano docker-compose.yml
+   ```
+
+5. Pada bagian ports ganti angka sebelah kiri dengan port pada server
+   Contoh:
+   ```
+   80:3000
+   ```
+   
 
 ##  Maintenance (opsional)
 
