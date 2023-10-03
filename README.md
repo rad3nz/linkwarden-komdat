@@ -157,5 +157,5 @@ Perbandingan dengan web sejenis biasa terletak pada fungsionalitas manipulasi ba
 
 Cantumkan tiap sumber informasi yang anda pakai.
 
--Instalasi Docker:   https://docs.docker.com/engine/install/ubuntu/
--Instalasi WebApp:   https://docs.linkwarden.app/
+- Instalasi Docker:   https://docs.docker.com/engine/install/ubuntu/
+- Instalasi WebApp:   https://docs.linkwarden.app/
