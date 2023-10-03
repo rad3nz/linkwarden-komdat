@@ -36,7 +36,7 @@ Mamo adalah sebuah website yang dibuat untuk **mencatat arus pemasukan dan penge
    ```
    touch .env
    ```
-   Kemudian lakukan [konfigurasi](https://docs.docker.com/engine/install/ubuntu/) pada file tersebut
+   Kemudian lakukan [konfigurasi](https://github.com/rad3nz/mamo-komdat/blob/main/README.md#konfigurasi) pada file tersebut
    
 
 7. Jika sudah dikonfigurasi, jalankan dengan Docker Compose:
