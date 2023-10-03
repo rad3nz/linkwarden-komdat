@@ -153,9 +153,8 @@ Linkwarden adalah situs bookmark collection yang kaya akan fitur. Adapun kelebih
 - 🌓 Light Mode dan **Dark Mode**
 - 🌐 Collection dapat di-set menjadi **public** dan dilihat oleh umum
 
-Untuk kekurangan yang ada dalam website ini, menurut saya hanya terbatas pada deployment website kami
-dan tidak bisa dijadikan patokan untuk kualitas dan potensi riilnya yaitu:
-- Saat ingin menambah kolaborator tidak bisa memverifikasi apakah user ada atau tidak saat mengisi field username
+Untuk kekurangan yang ada dalam website ini, dari pengujian yang kami lakukan, kekurangan tersebut hanya terbatas pada deployment website kami dan tidak bisa dijadikan patokan untuk mengukur kualitas dan potensi riilnya yaitu:
+- Saat mengisi field username untuk menambah kolaborator, tidak bisa memverifikasi apakah user ada atau tidak
 - Hasil Screenshot dan PDF untuk sebuah Link tidak ada
 
 
